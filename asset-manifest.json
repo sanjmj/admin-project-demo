@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-project-demo/static/css/main.5372df79.css",
+    "main.js": "/admin-project-demo/static/js/main.987a5249.js",
+    "index.html": "/admin-project-demo/index.html",
+    "main.5372df79.css.map": "/admin-project-demo/static/css/main.5372df79.css.map",
+    "main.987a5249.js.map": "/admin-project-demo/static/js/main.987a5249.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5372df79.css",
+    "static/js/main.987a5249.js"
+  ]
+}
